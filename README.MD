@@ -1,8 +1,3 @@
-Com certeza\! Com base na estrutura de arquivos que você enviou, preparei um resumo formatado em Markdown para um `README.md`. Ele descreve o projeto, suas etapas e a tecnologia utilizada.
-
-Você pode copiar e colar este conteúdo diretamente no seu arquivo `README.md`.
-
------
 
 # 📊 Análise Exploratória de Renda e Perfil de Clientes
 
