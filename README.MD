@@ -1,7 +1,7 @@
 
 # 📊 Análise Exploratória de Renda e Perfil de Clientes
 
-Este é um projeto de estudo em análise de dados que tem como objetivo explorar e avaliar a composição de renda de uma base de clientes. Através de uma abordagem exploratória com Jupyter Notebooks, o estudo investiga a relação entre a renda, o estado civil e outros fatores demográficos, buscando insights sobre o perfil dos clientes.
+Este é um projeto de estudo em análise de dados (realizado em meados de 2023) que tem como objetivo explorar e avaliar a composição de renda de uma base de clientes. Através de uma abordagem exploratória com Jupyter Notebooks, o estudo investiga a relação entre a renda, o estado civil e outros fatores demográficos, buscando insights sobre o perfil dos clientes.
 
 -----
 
